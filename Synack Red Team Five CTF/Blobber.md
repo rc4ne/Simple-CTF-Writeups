@@ -1,6 +1,6 @@
 # CTF NAME - Synack Red Team Five 2021
 
-# CATEGORY: WEB
+# CATEGORY: MISC
 
 # DIFFICULTY: EASY 
 
