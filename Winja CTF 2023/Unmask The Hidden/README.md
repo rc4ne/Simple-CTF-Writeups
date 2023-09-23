@@ -1,7 +1,7 @@
 # Description
 This challenge was in the Android Category. An APK was provided, we needed to call something that shouldn't be possible. Clearly, this hinted at calling some non-exported components in one or other way. You can find the original file as well as the exploit APK attached to this folder. 
 
-# Note: This can very well be done with a single Frida script. I wrote this article to show a manual approach, step-by-step. 
+### Note: This can very well be done with a single Frida script. I wrote this article to show a manual approach, step-by-step. 
 
 # Steps
 
