@@ -29,7 +29,7 @@ This challenge was in the Android Category. An APK was provided, we needed to ca
 
 ![image](https://github.com/rc4ne/Simple-CTF-Writeups/assets/83397936/73e5f098-b06b-4fcf-90ad-404c37534f08)
 
-7. Now to access JS Interface, open Chrome and navigate to "chrome://inspect". It will show webview opened in connected devices and allow inspecting.
+7. Now to access JS Interface, open Chrome and navigate to "chrome://inspect". It will show webview opened in connected devices and allow inspecting. (You need to make the app debuggable to access it via chrome://inspect)
 
 ![image](https://github.com/rc4ne/Simple-CTF-Writeups/assets/83397936/e2ec3849-2bee-48f3-9a73-2ce59ad0c76b)
 
